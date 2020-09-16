@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>ClaesJ - Legitimerad symbol terapeut…</string>
 				<key>CreatedDate</key>
 				<date>2020-09-12T18:41:53Z</date>
 				<key>ID</key>
@@ -79,7 +81,7 @@
 					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/SinglePageSplashTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-14T06:43:02Z</date>
+						<date>2020-09-14T16:35:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -108,11 +110,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								2jABy00Z3Iri
-								ZakhBKBImg==
+								PXu++FNZRjUk
+								dz4Y0THSgw==
 								</data>
 								<key>Size</key>
-								<integer>7592</integer>
+								<integer>7670</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
