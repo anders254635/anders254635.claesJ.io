@@ -62,7 +62,7 @@
 					<key>page0 - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -91,11 +91,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								F6WCeMrAaeRp
-								6128altWaA==
+								yUZi0YPDqndq
+								UDUk299YNg==
 								</data>
 								<key>Size</key>
-								<integer>4976</integer>
+								<integer>5549</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -200,7 +200,7 @@
 					<key>page1 - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -209,11 +209,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lH85Irb0FUDT
-								FIndpcW+Kw==
+								S72Tmp0DWDup
+								Bi3Qwqf6UQ==
 								</data>
 								<key>Size</key>
-								<integer>1653</integer>
+								<integer>2610</integer>
 							</dict>
 							<key>files/stacks_page_page1.js</key>
 							<dict>
@@ -229,11 +229,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vmm9ZHsaUqFI
-								P1WDWsVhNg==
+								41rr2SLY/6wm
+								qm3I+u+DrQ==
 								</data>
 								<key>Size</key>
-								<integer>8306</integer>
+								<integer>8895</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -289,6 +289,98 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
+					<key>page2 - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2020-09-22T15:18:29Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/stacks_page_page2.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								NXxqoaedRwfK
+								JcBOPVrBOA==
+								</data>
+								<key>Size</key>
+								<integer>11</integer>
+							</dict>
+							<key>files/stacks_page_page2.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								eXlW1/rVXUJb
+								QDYTgwNsXg==
+								</data>
+								<key>Size</key>
+								<integer>6824</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page2</string>
+						<key>SiteRoot</key>
+						<string>page-2</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>page3 - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2020-09-22T15:18:29Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/stacks_page_page3.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								NXxqoaedRwfK
+								JcBOPVrBOA==
+								</data>
+								<key>Size</key>
+								<integer>11</integer>
+							</dict>
+							<key>files/stacks_page_page3.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								qEGq+lLbcvuX
+								AtPeB0/qlg==
+								</data>
+								<key>Size</key>
+								<integer>5224</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page3</string>
+						<key>SiteRoot</key>
+						<string>page-3</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
 					<key>rw:document:extrafiles - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageKickiTheme/</key>
 					<dict>
 						<key>CreationDate</key>
@@ -328,7 +420,7 @@
 					<key>rw:document:extrafiles - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -347,11 +439,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								3HDlfs9Gt8XN
-								yGJfwSTbKQ==
+								c3BdTmFAXQty
+								ufY4blct2g==
 								</data>
 								<key>Size</key>
-								<integer>303</integer>
+								<integer>377</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -436,7 +528,7 @@
 					<key>rw:plugin:stacks - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -455,11 +547,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								2FOCSMwWzNmn
-								jnICcIcADg==
+								kwQhqElAmeUU
+								SwMvzOlr+Q==
 								</data>
 								<key>Size</key>
-								<integer>1721</integer>
+								<integer>1737</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -1350,7 +1442,7 @@
 					<key>rw:theme:offroad - file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1809,8 +1901,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MvEVf19YGxYY
-								VF9WH4/QIQ==
+								RLDAEeOhA/Z5
+								XvKYkPnmfg==
 								</data>
 								<key>Size</key>
 								<integer>543151</integer>
@@ -1868,8 +1960,8 @@
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wBIAAsASQA7AEsAQ1dO
 				Uy5iYXNlW05TLnJlbGF0aXZlgACADoAM0gAiACMATgBP
-				VU5TVVJMogBOACfSAFEACwBSAFNXTlMudGltZSNBwok+
-				L8gnGIAQ0gAiACMAVQBWVk5TRGF0ZaIAVQAn0wAJAAoA
+				VU5TVVJMogBOACfSAFEACwBSAFNXTlMudGltZSNBwo0m
+				o8z0nYAQ0gAiACMAVQBWVk5TRGF0ZaIAVQAn0wAJAAoA
 				CwBYAF8AZqYAWQBaAFsAXABdAF6AEoATgBSAFYAWgBem
 				AGAAYABgAGAAYABggBiAGIAYgBiAGIAYgBlfEGhmaWxl
 				Oi8vL1VzZXJzL2FuZGVycy9Eb2N1bWVudHMvU2l0ZXMv
@@ -1902,7 +1994,7 @@
 				LjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wBIAAsASQA7AEsAgIAA
-				gA6AHtIAUQALAIkAUyNBwok+L8gnyIAQ0wAJAAoACwCM
+				gA6AHtIAUQALAIkAUyNBwo0mo8z1f4AQ0wAJAAoACwCM
 				AJMAZqYAjQCOAI8AkACRAJKAIoAjgCSAJYAmgCemAGAA
 				YABgAGAAYABggBiAGIAYgBiAGIAYgBlfEGhmaWxlOi8v
 				L1VzZXJzL2FuZGVycy9Eb2N1bWVudHMvU2l0ZXMvUmFw
@@ -1932,7 +2024,7 @@
 				LjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wBIAAsASQA7AEsAq4AA
-				gA6AK9IAUQALALQAUyNBwok+L8goE4AQ0wAJAAoACwC3
+				gA6AK9IAUQALALQAUyNBwo0mo8z1y4AQ0wAJAAoACwC3
 				AL4AZqYAuAC5ALoAuwC8AL2AL4AwgDGAMoAzgDSmAGAA
 				YABgAGAAYABggBiAGIAYgBiAGIAYgBlfEGhmaWxlOi8v
 				L1VzZXJzL2FuZGVycy9Eb2N1bWVudHMvU2l0ZXMvUmFw
@@ -1962,7 +2054,7 @@
 				LjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wBIAAsASQA7AEsA1oAA
-				gA6AONIAUQALAN8AUyNBwok+L8goToAQ0wAJAAoACwDi
+				gA6AONIAUQALAN8AUyNBwo0mo8z2BoAQ0wAJAAoACwDi
 				AOkAZqYA4wDkAOUA5gDnAOiAPIA9gD6AP4BAgEGmAGAA
 				YABgAGAAYABggBiAGIAYgBiAGIAYgBlfEGhmaWxlOi8v
 				L1VzZXJzL2FuZGVycy9Eb2N1bWVudHMvU2l0ZXMvUmFw
@@ -1992,7 +2084,7 @@
 				LjIuMSZxPTgwJmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9
 				dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhpZD1leUpo
 				Y0hCZmFXUWlPakV6TWpRNWZR0wBIAAsASQA7AEsBAYAA
-				gA6ARdIAUQALAQoAUyNBwok+L8goiYAQ0wAJAAoACwEN
+				gA6ARdIAUQALAQoAUyNBwo0mo8z3woAQ0wAJAAoACwEN
 				ARIAZqQBDgEPARABEYBJgEqAS4BMpABgAGAAYABggBiA
 				GIAYgBiAGV8QaGZpbGU6Ly8vVXNlcnMvYW5kZXJzL0Rv
 				Y3VtZW50cy9TaXRlcy9SYXBpZHdlYXZlciUyMDglMjAv
@@ -2017,7 +2109,7 @@
 				Zm09anBnJmNyb3A9ZW50cm9weSZjcz10aW55c3JnYiZ3
 				PTEwODAmZml0PW1heCZpeGlkPWV5SmhjSEJmYVdRaU9q
 				RXpNalE1ZlHTAEgACwBJADsASwEmgACADoBQ0gBRAAsB
-				LwBTI0HCiT4vyCjDgBDTAAkACgALATIBNwBmpAEzATQB
+				LwBTI0HCjSajzPgFgBDTAAkACgALATIBNwBmpAEzATQB
 				NQE2gFSAVYBWgFekAGAAYABgAGCAGIAYgBiAGIAZXxBo
 				ZmlsZTovLy9Vc2Vycy9hbmRlcnMvRG9jdW1lbnRzL1Np
 				dGVzL1JhcGlkd2VhdmVyJTIwOCUyMC9UZXN0L2FuZGVy
@@ -2060,7 +2152,7 @@
 				<key>SiteAttributes</key>
 				<dict>
 					<key>AddCopyrightMailTo</key>
-					<true/>
+					<false/>
 					<key>AnonymiseThirdPartyRequests</key>
 					<false/>
 					<key>BannerIdentifier</key>
@@ -2072,9 +2164,9 @@
 					<key>ConsolidateCommonFilesMode</key>
 					<integer>0</integer>
 					<key>ContactText</key>
-					<string>Contact Me</string>
+					<string>claes.34@claesj.se</string>
 					<key>CopyrightText</key>
-					<string>© 2020 Claes J</string>
+					<string>© 2020 Claes Jonsson</string>
 					<key>CopyrightTextUsed</key>
 					<true/>
 					<key>CruftlessLinksEnabled</key>
@@ -2216,13 +2308,13 @@
 					<key>SiteLanguage</key>
 					<string>sv</string>
 					<key>SloganText</key>
-					<string>Legitimerad symbol terapeut…</string>
+					<string>Leg Psykolog Leg Psykoterapeut</string>
 					<key>SloganUsed</key>
-					<false/>
+					<true/>
 					<key>ThemeName</key>
 					<string>Offroad</string>
 					<key>TitleText</key>
-					<string>ClaesJ</string>
+					<string>Claes Jonsson</string>
 					<key>TitleTextUsed</key>
 					<true/>
 					<key>UniqueBackupName</key>

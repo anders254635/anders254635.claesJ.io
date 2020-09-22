@@ -9,16 +9,14 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
-				<key>BrowserTitle</key>
-				<string>ClaesJ - Legitimerad symbol terapeut…</string>
 				<key>CreatedDate</key>
-				<date>2020-09-12T18:41:53Z</date>
+				<date>2020-09-16T06:51:02Z</date>
 				<key>ID</key>
-				<string>page1</string>
+				<string>page0</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Home</string>
+				<string>Kontakt</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -40,17 +38,17 @@
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks_page_page1.css</key>
+							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								lH85Irb0FUDT
-								FIndpcW+Kw==
+								NXxqoaedRwfK
+								JcBOPVrBOA==
 								</data>
 								<key>Size</key>
-								<integer>1653</integer>
+								<integer>11</integer>
 							</dict>
-							<key>files/stacks_page_page1.js</key>
+							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -64,39 +62,39 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZfeS1zlUbfGt
-								hnwfmaUxEQ==
+								26KNprotBnXp
+								bo9jLAoLBg==
 								</data>
 								<key>Size</key>
-								<integer>7578</integer>
+								<integer>4351</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page1</string>
+						<string>page0</string>
 						<key>SiteRoot</key>
-						<string></string>
+						<string>page</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T17:01:17Z</date>
+						<date>2020-09-22T15:18:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks_page_page1.css</key>
+							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								lH85Irb0FUDT
-								FIndpcW+Kw==
+								NXxqoaedRwfK
+								JcBOPVrBOA==
 								</data>
 								<key>Size</key>
-								<integer>1653</integer>
+								<integer>11</integer>
 							</dict>
-							<key>files/stacks_page_page1.js</key>
+							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -110,17 +108,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vmm9ZHsaUqFI
-								P1WDWsVhNg==
+								yUZi0YPDqndq
+								UDUk299YNg==
 								</data>
 								<key>Size</key>
-								<integer>8306</integer>
+								<integer>5549</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page1</string>
+						<string>page0</string>
 						<key>SiteRoot</key>
-						<string></string>
+						<string>page</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -132,17 +130,17 @@
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks_page_page1.css</key>
+							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								lH85Irb0FUDT
-								FIndpcW+Kw==
+								NXxqoaedRwfK
+								JcBOPVrBOA==
 								</data>
 								<key>Size</key>
-								<integer>1653</integer>
+								<integer>11</integer>
 							</dict>
-							<key>files/stacks_page_page1.js</key>
+							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -156,17 +154,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								EolTCoI5BvAU
-								J454sqOQ3g==
+								8WehLHRvxJay
+								qDu2WypJIw==
 								</data>
 								<key>Size</key>
-								<integer>9126</integer>
+								<integer>5793</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page1</string>
+						<string>page0</string>
 						<key>SiteRoot</key>
-						<string></string>
+						<string>page</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

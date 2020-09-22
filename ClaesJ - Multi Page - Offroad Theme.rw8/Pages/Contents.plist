@@ -10,14 +10,16 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>HomePage</key>
-				<string>1-Home</string>
+				<string>1-Hem</string>
 			</dict>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-Home</string>
-				<string>2-Contact</string>
+				<string>1-Hem</string>
+				<string>2-Om</string>
+				<string>3-Istdp</string>
+				<string>4-Kontakt</string>
 			</array>
 		</dict>
 	</array>

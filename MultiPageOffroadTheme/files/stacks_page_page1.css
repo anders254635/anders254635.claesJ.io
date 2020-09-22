@@ -172,3 +172,50 @@
 #stacks_in_28_page1 {
 	margin: 0px 10px 0px 0px;
 }
+#stacks_in_43_page1_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_43_page1 a:link, #stacks_in_43_page1 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_43_page1 a:hover, #stacks_in_43_page1 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+#stacks_in_43_page1 a:link, #stacks_in_43_page1 a:visited {
+	background-color:#5D7564;
+	background: -webkit-gradient(linear, left top, left bottom, from(#5D7564), to(#38463C));
+	border:1px solid #38463C;
+	padding:3px 20px;
+	border-radius:30px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_43_page1 a:hover {
+	background-color:#657E6C;
+	background: -webkit-gradient(linear, left top, left bottom, from(#657E6C), to(#303D34));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_43_page1 a:active {
+	background-color:#5D7564;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}
+
+
+
