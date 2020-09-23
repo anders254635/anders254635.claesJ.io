@@ -2,17 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.claesj.com/index.html</loc>
+		<lastmod>2020-09-23</lastmod>
 	</url>
 	<url>
 		<loc>https://www.claesj.com/page-om/index.html</loc>
+		<lastmod>2020-09-23</lastmod>
 	</url>
 	<url>
 		<loc>https://www.claesj.com/page-istdp/index.html</loc>
+		<lastmod>2020-09-23</lastmod>
 	</url>
 	<url>
 		<loc>https://www.claesj.com/page-kontakt/index.html</loc>
-	</url>
-	<url>
-		<loc>https://www.claesj.com/page-kontakt2/index.html</loc>
+		<lastmod>2020-09-23</lastmod>
 	</url>
 </urlset>
