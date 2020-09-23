@@ -35,60 +35,40 @@
 					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-23T10:58:21Z</date>
+						<date>2020-09-23T14:32:30Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/Parsedown.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								sG/dSNlGsgXA
-								jDIeP5Pduw==
-								</data>
-								<key>Size</key>
-								<integer>41273</integer>
-							</dict>
-							<key>files/ftprocs.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								xFhssCaUuSG6
-								ijgOY4IZfg==
-								</data>
-								<key>Size</key>
-								<integer>10565</integer>
-							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								qp9308ELzAuY
-								fDJsTHhV4w==
+								AgbENG3FUMw4
+								gMbAAYf3Lg==
 								</data>
 								<key>Size</key>
-								<integer>10429</integer>
+								<integer>5094</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								gz5hacCgAKoc
-								o66u/ZlSww==
+								/sVCkdFW9q/I
+								jsYQMInoDw==
 								</data>
 								<key>Size</key>
-								<integer>20161</integer>
+								<integer>17</integer>
 							</dict>
-							<key>index.php</key>
+							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Zx6L6B2BokMl
-								mCH8e8jk9A==
+								+hIwCvnEdtNe
+								K/ndNBfJFw==
 								</data>
 								<key>Size</key>
-								<integer>9418</integer>
+								<integer>8615</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
