@@ -1,4 +1,4 @@
-### Impressum
+### Upphovsrätt / Copyright 
 Copyright for everything except stated otherwise below belongs to Claes Jonsson, Tavastgatan 29 D
 118 24  Stockholm
 
