@@ -1,0 +1,632 @@
+#stacks_in_14_page0_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_14_page0 a:link, #stacks_in_14_page0 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_14_page0 a:hover, #stacks_in_14_page0 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+#stacks_in_14_page0 a:link, #stacks_in_14_page0 a:visited {
+	background-color:#5D7564;
+	background: -webkit-gradient(linear, left top, left bottom, from(#5D7564), to(#38463C));
+	border:1px solid #38463C;
+	padding:3px 20px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_14_page0 a:hover {
+	background-color:#657E6C;
+	background: -webkit-gradient(linear, left top, left bottom, from(#657E6C), to(#303D34));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_14_page0 a:active {
+	background-color:#5D7564;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}
+
+#stacks_in_14_page0 {
+	margin: 30px 0px 0px 0px;
+}
+
+#stacks_in_6_page0 {
+	margin: 30px 0px 0px 0px;
+}
+#stacks_in_47_page0>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_47_page0>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_47_page0>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_47_page0>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_47_page0>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_47_page0>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+
+#stacks_in_39_page0 {
+	margin: 30px 0px 0px 0px;
+}
+/* FlexTable styles */
+/* Bryn Owen Design, 2019 */
+
+/* the div the table lives inside */
+#FlexTableDiv_stacks_in_18_page0 {
+
+	/* default no padding without shadows, so that generic border/rounding work nicely */
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+	/* modify div paddings to make room for shadow, but generic border/rounding will not work */
+	
+
+	/* scroll forces scroll bars in firefox/ie - use auto to show them when necessary */
+	overflow-x: auto;
+
+	
+	overflow-y: auto;
+	
+
+	
+	}
+
+#FlexTablePager_stacks_in_18_page0, #FlexTableCaption_stacks_in_18_page0, #FlexTableSearch_stacks_in_18_page0 {
+	line-height: 24px !important;
+	max-height: 24px;
+	white-space: nowrap;
+	display: inline-block;
+	color: rgba(76, 76, 76, 1.00);
+	font-size: 1.0em !important;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 6px;
+	padding-right: 6px;
+
+	
+	-moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+
+	
+	border: none;
+	
+	position: relative;
+	z-index: 0;
+	}
+
+#FlexTablePager_stacks_in_18_page0 {
+	background-color: rgba(255, 255, 255, 1.00);
+	float: left;
+	margin-left: 24px;
+	font-family: Arial, Helvetica, sans-serif !important;
+	
+	vertical-align: top;
+	
+	border-top: none !important;
+	-moz-border-top-left-radius: 0px !important;
+	-moz-border-top-right-radius: 0px !important;
+    -webkit-border-top-left-radius: 0px !important;
+    -webkit-border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+	
+	
+	
+	}
+
+#FlexTablePager_stacks_in_18_page0 a {
+	text-decoration: none !important;
+	}
+
+#FlexTablePager_stacks_in_18_page0 label {
+	display: inline;
+	}
+
+
+
+
+
+#FlexTableRot_stacks_in_18_page0 {
+	display: none;
+	}
+
+/* the overall table itself */
+#FlexTable_stacks_in_18_page0, #FlexTableRot_stacks_in_18_page0 {
+
+	position: relative;
+	z-index: 0;
+	width: 100%;
+	margin: 0 auto;
+	font-size: 1.0em !important;
+
+	
+	color: rgba(76, 76, 76, 1.00);
+	
+
+	
+		border-collapse: collapse;
+		
+	
+
+	
+		border: none;
+		border-spacing: 0px 0px;
+	
+
+	
+	}
+
+/* fix trailing margin after td paragraphs in 1.5.0 */
+#FlexTable_stacks_in_18_page0 td p, #FlexTableRot_stacks_in_18_page0 td p {
+	margin-bottom: 0;
+	margin-top: 0;
+	
+	}
+
+/* every table cell */
+#FlexTable_stacks_in_18_page0 td, #FlexTableRot_stacks_in_18_page0 td {
+
+	/* new for 1.1.6 to improve font scaling in foundation */
+	font-size: 1.0em !important;
+
+	
+	
+	
+	
+	
+	
+	
+
+	background-color: rgba(255, 255, 255, 1.00);
+
+	
+	
+	
+	text-align: Left;
+	
+
+	
+	
+	
+	
+	vertical-align: middle;
+	
+	
+
+	
+
+	padding-left: 4px !important;
+	padding-right: 4px !important;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+
+	
+	width: auto;
+	
+
+	
+
+	
+	}
+
+/* first row overrides */
+#FlexTable_stacks_in_18_page0 tr:first-child td {
+
+	
+
+	
+	
+	
+	
+
+	
+	
+	vertical-align: middle;
+	
+	
+
+	
+	}
+
+/* first column for rotated table */
+#FlexTableRot_stacks_in_18_page0 td:first-child {
+
+	
+
+	
+	
+	
+	
+
+	
+	text-align: Left;
+	
+
+	
+	width: auto;
+	
+	}
+
+#FlexTableRot_stacks_in_18_page0 td {
+	width: auto !important;
+	}
+
+/* first column overrides */
+#FlexTable_stacks_in_18_page0 td:first-child {
+
+	
+
+	
+	
+	
+	
+
+	
+	text-align: Left;
+	
+
+	
+	width: auto;
+	
+
+	
+	}
+
+
+
+/* rotated table first row second column overrides */
+#FlexTableRotR1C2_stacks_in_18_page0 {
+	
+	}
+
+
+
+
+
+
+
+/* outer table radius when collapsed */
+#FlexTable_stacks_in_18_page0 tr:first-child td:first-child {
+    -moz-border-radius-topleft: 0px;
+    -webkit-border-top-left-radius: 0px;
+    border-top-left-radius: 0px;
+	}
+#FlexTable_stacks_in_18_page0 tr:first-child td:last-child {
+    -moz-border-radius-topright: 0px !important;
+    -webkit-border-top-right-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+	}
+#FlexTable_stacks_in_18_page0 tr:last-child td:first-child {
+    -moz-border-radius-bottomleft: 0px !important;
+    -webkit-border-bottom-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+	}
+#FlexTable_stacks_in_18_page0 tr:last-child td:last-child {
+    -moz-border-radius-bottomright: 0px !important;
+    -webkit-border-bottom-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+	}
+
+
+
+
+
+@media all and (max-width: 600px) {
+#FlexTable_stacks_in_18_page0, #FlexTableRot_stacks_in_18_page0, #FlexTablePager_stacks_in_18_page0, #FlexTableCaption_stacks_in_18_page0, #FlexTableSearch_stacks_in_18_page0, #FlexTableSearch_search_stacks_in_18_page0, #FlexTableSearch_button_stacks_in_18_page0 {
+	/* one master location for font scaling etc. */
+	font-size: 1.00em !important;
+	line-height: 1.2em;
+	}
+
+/* new for 1.1.6 to improve font scaling in foundation */
+#FlexTable_stacks_in_18_page0 tr td, #FlexTableRot_stacks_in_18_page0 tr td {
+	/* font-size: 1.00em !important; */
+	font-size: 1em !important;
+	}
+
+/* added in 1.5.0 for paragraphs inside td from Markdown */
+#FlexTable_stacks_in_18_page0 td p, #FlexTableRot_stacks_in_18_page0 td p {
+	/* font-size: 1.00em !important; */
+	font-size: 1em !important;
+	}
+
+#FlexTableSearch_search_stacks_in_18_page0 {
+	width: 100px !important;
+	}
+
+
+
+
+}
+
+
+
+
+/* hover dynamics for pager/search, disabled on small screens */
+@media all and (min-width: 600px) {
+
+
+}
+
+/* never print search and pager */
+@media print {
+#FlexTablePager_stacks_in_18_page0, #FlexTableSearch_stacks_in_18_page0 {
+	display: none !important;
+	}
+}
+
+
+
+
+#stacks_out_45_page0 {
+	width: 450px;
+}
+
+#stacks_in_45_page0 {
+	margin: 30px 0px 0px 0px;
+}
+#stacks_in_73_page0>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_73_page0>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_73_page0>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_73_page0>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_73_page0>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_73_page0>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+
+#stacks_in_94_page0_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_94_page0 a:link, #stacks_in_94_page0 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_94_page0 a:hover, #stacks_in_94_page0 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+#stacks_in_94_page0 a:link, #stacks_in_94_page0 a:visited {
+	background-color:#5D7564;
+	background: -webkit-gradient(linear, left top, left bottom, from(#5D7564), to(#38463C));
+	border:1px solid #38463C;
+	padding:3px 20px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_94_page0 a:hover {
+	background-color:#657E6C;
+	background: -webkit-gradient(linear, left top, left bottom, from(#657E6C), to(#303D34));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_94_page0 a:active {
+	background-color:#5D7564;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}
+
+#stacks_in_94_page0 {
+	margin: 20px 0px 0px 0px;
+}
+#stacks_in_92_page0_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_92_page0 a:link, #stacks_in_92_page0 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_92_page0 a:hover, #stacks_in_92_page0 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+#stacks_in_92_page0 a:link, #stacks_in_92_page0 a:visited {
+	background-color:#5D7564;
+	background: -webkit-gradient(linear, left top, left bottom, from(#5D7564), to(#38463C));
+	border:1px solid #38463C;
+	padding:3px 20px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_92_page0 a:hover {
+	background-color:#657E6C;
+	background: -webkit-gradient(linear, left top, left bottom, from(#657E6C), to(#303D34));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_92_page0 a:active {
+	background-color:#5D7564;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}
+
+#stacks_in_92_page0 {
+	margin: 20px 0px 0px 0px;
+}
+#stacks_in_96_page0_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_96_page0 a:link, #stacks_in_96_page0 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_96_page0 a:hover, #stacks_in_96_page0 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+#stacks_in_96_page0 a:link, #stacks_in_96_page0 a:visited {
+	background-color:#5D7564;
+	background: -webkit-gradient(linear, left top, left bottom, from(#5D7564), to(#38463C));
+	border:1px solid #38463C;
+	padding:3px 20px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_96_page0 a:hover {
+	background-color:#657E6C;
+	background: -webkit-gradient(linear, left top, left bottom, from(#657E6C), to(#303D34));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_96_page0 a:active {
+	background-color:#5D7564;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}

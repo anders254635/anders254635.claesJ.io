@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>Claes Jonsson - Leg Psykolog Leg Psykoterapeut</string>
 				<key>CreatedDate</key>
 				<date>2020-09-16T06:51:02Z</date>
 				<key>ID</key>
@@ -30,141 +32,69 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageKickiTheme/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-16T16:43:29Z</date>
+						<date>2020-09-23T10:58:21Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/Parsedown.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								sG/dSNlGsgXA
+								jDIeP5Pduw==
+								</data>
+								<key>Size</key>
+								<integer>41273</integer>
+							</dict>
+							<key>files/ftprocs.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								xFhssCaUuSG6
+								ijgOY4IZfg==
+								</data>
+								<key>Size</key>
+								<integer>10565</integer>
+							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								NXxqoaedRwfK
-								JcBOPVrBOA==
+								qp9308ELzAuY
+								fDJsTHhV4w==
 								</data>
 								<key>Size</key>
-								<integer>11</integer>
+								<integer>10429</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
+								gz5hacCgAKoc
+								o66u/ZlSww==
 								</data>
 								<key>Size</key>
-								<integer>17</integer>
+								<integer>20161</integer>
 							</dict>
-							<key>index.html</key>
+							<key>index.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								26KNprotBnXp
-								bo9jLAoLBg==
+								Zx6L6B2BokMl
+								mCH8e8jk9A==
 								</data>
 								<key>Size</key>
-								<integer>4351</integer>
+								<integer>9418</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page0</string>
 						<key>SiteRoot</key>
-						<string>page</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2020-09-22T15:18:29Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/stacks_page_page0.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NXxqoaedRwfK
-								JcBOPVrBOA==
-								</data>
-								<key>Size</key>
-								<integer>11</integer>
-							</dict>
-							<key>files/stacks_page_page0.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								yUZi0YPDqndq
-								UDUk299YNg==
-								</data>
-								<key>Size</key>
-								<integer>5549</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page0</string>
-						<key>SiteRoot</key>
-						<string>page</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageVoyagerTheme/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2020-09-16T16:54:02Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/stacks_page_page0.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NXxqoaedRwfK
-								JcBOPVrBOA==
-								</data>
-								<key>Size</key>
-								<integer>11</integer>
-							</dict>
-							<key>files/stacks_page_page0.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								8WehLHRvxJay
-								qDu2WypJIw==
-								</data>
-								<key>Size</key>
-								<integer>5793</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page0</string>
-						<key>SiteRoot</key>
-						<string>page</string>
+						<string>page-kontakt</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -174,6 +104,7 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>ChildPages</string>
 				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>

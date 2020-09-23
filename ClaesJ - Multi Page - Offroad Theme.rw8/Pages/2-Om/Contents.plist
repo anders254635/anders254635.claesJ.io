@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>Claes Jonsson - Leg Psykolog Leg Psykoterapeut</string>
 				<key>CreatedDate</key>
 				<date>2020-09-22T14:25:46Z</date>
 				<key>ID</key>
@@ -30,23 +32,63 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-22T15:18:29Z</date>
+						<date>2020-09-23T10:58:21Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/stacks-image-a9cc132-1200x800.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								0K+Ne5bnn6x6
+								WVAhvuV1aw==
+								</data>
+								<key>Size</key>
+								<integer>157830</integer>
+							</dict>
+							<key>files/stacks-image-a9cc132-1200x800@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								bqZQzYboHLRS
+								wJByszI41g==
+								</data>
+								<key>Size</key>
+								<integer>318164</integer>
+							</dict>
+							<key>files/stacks-image-db02d41-1200x802.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								kTyolMr9Kytm
+								d4mWpe59Sw==
+								</data>
+								<key>Size</key>
+								<integer>161715</integer>
+							</dict>
+							<key>files/stacks-image-db02d41-1200x802@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								EbVFAkbgclol
+								bLr1KybpYA==
+								</data>
+								<key>Size</key>
+								<integer>270465</integer>
+							</dict>
 							<key>files/stacks_page_page2.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								NXxqoaedRwfK
-								JcBOPVrBOA==
+								lrvDFM9yxQLz
+								9dteTzpdMw==
 								</data>
 								<key>Size</key>
-								<integer>11</integer>
+								<integer>1809</integer>
 							</dict>
 							<key>files/stacks_page_page2.js</key>
 							<dict>
@@ -62,17 +104,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								eXlW1/rVXUJb
-								QDYTgwNsXg==
+								8Fgkw67TkrNI
+								wAaYO+POjw==
 								</data>
 								<key>Size</key>
-								<integer>6824</integer>
+								<integer>8833</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page2</string>
 						<key>SiteRoot</key>
-						<string>page-2</string>
+						<string>page-om</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

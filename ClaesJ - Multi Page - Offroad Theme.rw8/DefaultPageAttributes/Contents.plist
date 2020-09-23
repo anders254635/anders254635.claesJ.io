@@ -40,6 +40,8 @@
 					<dict/>
 					<key>Offroad</key>
 					<dict>
+						<key>%colour_accent%</key>
+						<string>#7370A6</string>
 						<key>%colour_body_background%</key>
 						<string>#25282B</string>
 						<key>%colour_headings%</key>
