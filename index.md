@@ -1,6 +1,31 @@
-### Test av website design för ClaesJ
+## Test av website design för ClaesJ
+### Verktyg
+RapidWeaver8 av <https://www.realmacsoftware.com>
 
-## Teman
+#### Tillägg
+- Stacks-3
+- Link Stack
+
+### Aktuellt Tema & Färger
+
+Namn: RapidWeaver7 Themes - Offroad
+
+Färger:
+- Headings: 4A5E50
+- Banner title: 5F7966
+- Accent (länkar): 7370A6
+- Main: Vit
+
+#### Uppdateringar
+2020-09-22
+Efter möte med Claes & Anders
+[Öppna](https://anders254635.github.io/anders254635.claesJ.io/MultiPageOffroadTheme/)
+
+2020-09-23
+Anders Uppdateringar
+[Öppna](https://anders254635.github.io/anders254635.claesJ.io/MultiPageOffroadThemeAltB/)
+
+#### Andra Teman
 
 [Single Page Splash Theme](https://anders254635.github.io/anders254635.claesJ.ioSinglePageSplashTheme/)
 
@@ -10,7 +35,6 @@
 
 [Multiple Page Split Theme](https://anders254635.github.io/anders254635.claesJ.io/MultiPageSplitTheme/)
 
-[Multiple Page Offroad Theme](https://anders254635.github.io/anders254635.claesJ.io/MultiPageOffroadTheme/)
 
 [Multiple Page Kicki Theme](https://anders254635.github.io/anders254635.claesJ.io/MultiPageKickiTheme/)
 

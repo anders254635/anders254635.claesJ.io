@@ -14,6 +14,8 @@
 					<key>default</key>
 					<true/>
 					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
+					<true/>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
 					<false/>
 				</dict>
 				<key>ColourStyles</key>
@@ -31,8 +33,10 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>page-3</string>
+				<string>page-istdp</string>
 				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
 				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>

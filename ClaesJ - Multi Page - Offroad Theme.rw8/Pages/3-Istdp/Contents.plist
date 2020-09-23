@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>Claes Jonsson - Leg Psykolog Leg Psykoterapeut</string>
 				<key>CreatedDate</key>
 				<date>2020-09-22T14:25:49Z</date>
 				<key>ID</key>
@@ -16,7 +18,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Istdp</string>
+				<string>ISTDP</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -30,10 +32,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadTheme/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-22T15:18:29Z</date>
+						<date>2020-09-23T10:58:21Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								NXxqoaedRwfK
-								JcBOPVrBOA==
+								fFDtZTV8r5I4
+								pHX7YuvXQA==
 								</data>
 								<key>Size</key>
-								<integer>11</integer>
+								<integer>1481</integer>
 							</dict>
 							<key>files/stacks_page_page3.js</key>
 							<dict>
@@ -62,17 +64,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qEGq+lLbcvuX
-								AtPeB0/qlg==
+								L1JNb+nmBEtr
+								r9G/IJsuag==
 								</data>
 								<key>Size</key>
-								<integer>5224</integer>
+								<integer>6588</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page3</string>
 						<key>SiteRoot</key>
-						<string>page-3</string>
+						<string>page-istdp</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

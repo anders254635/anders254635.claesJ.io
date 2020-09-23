@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>ClaesJ - Legitimerad symbol terapeut…</string>
+				<string>Claes Jonsson - Leg Psykolog Leg Psykoterapeut</string>
 				<key>CreatedDate</key>
 				<date>2020-09-12T18:41:53Z</date>
 				<key>ID</key>
@@ -115,6 +115,52 @@
 								</data>
 								<key>Size</key>
 								<integer>8895</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page1</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2020-09-23T10:58:21Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/stacks_page_page1.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ltRsrlvEloTC
+								LmuFHlhb4Q==
+								</data>
+								<key>Size</key>
+								<integer>3797</integer>
+							</dict>
+							<key>files/stacks_page_page1.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								s67Nwoi6bM65
+								6vXz+ja0+A==
+								</data>
+								<key>Size</key>
+								<integer>9649</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
