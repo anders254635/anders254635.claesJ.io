@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Affero</key>
+					<dict/>
+					<key>Allegro</key>
+					<dict/>
+					<key>Artful</key>
+					<dict/>
+					<key>Free Splash</key>
+					<dict/>
+					<key>Future</key>
+					<dict>
+						<key>%colour_slogan%</key>
+						<string>rgba(252,255,255,0.76)</string>
+					</dict>
+					<key>Kiki</key>
+					<dict>
+						<key>%colour_header%</key>
+						<string>#0D6835</string>
+						<key>%colour_headerText%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_nav%</key>
+						<string>#008040</string>
+						<key>%colour_navActiveText%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_navCurrentText%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_navHighlightText%</key>
+						<string>#0C5E30</string>
+						<key>%colour_titleSubHeader%</key>
+						<string>#FFFFFF</string>
+					</dict>
+					<key>Lander</key>
+					<dict/>
+					<key>Offroad</key>
+					<dict>
+						<key>%colour_accent%</key>
+						<string>#7370A6</string>
+						<key>%colour_body_background%</key>
+						<string>#25282B</string>
+						<key>%colour_headings%</key>
+						<string>#4A5E50</string>
+						<key>%colour_site_title%</key>
+						<string>#5F7966</string>
+						<key>%colour_text%</key>
+						<string>#212823</string>
+					</dict>
+					<key>Realmac Software '06</key>
+					<dict/>
+					<key>Reason</key>
+					<dict/>
+					<key>Voyager</key>
+					<dict>
+						<key>%colour_nav_closer_toggle%</key>
+						<string>#F3F3F3</string>
+						<key>%colour_nav_page_names%</key>
+						<string>#4C4C4C</string>
+						<key>%colour_nav_site_title%</key>
+						<string>#4A5E50</string>
+						<key>%colour_site_title_normal_text%</key>
+						<string>#4A5E50</string>
+					</dict>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string></string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Artful</key>
+					<array>
+						<string>Banner Background.None</string>
+						<string>Banner.Uppercase Title</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+					<key>Free Splash</key>
+					<array>
+						<string>[+] combo options.Rouded Corners</string>
+						<string>Background - Loading Effects.Instant</string>
+						<string>Background - Style.Opacity 100%</string>
+						<string>Google WebFont: Classes + Titles.Off</string>
+						<string>Page - Loading Effects.Instant</string>
+						<string>Page - Loading Effects.Slide</string>
+						<string>Page - Setting.Variable width</string>
+						<string>Page - Style.Flat color</string>
+						<string>Show - Hide Elements.Sidebar Off</string>
+					</array>
+					<key>Future</key>
+					<array>
+						<string>Banner.Brightness</string>
+						<string>Color Settings.Hide Sidebar</string>
+						<string>Content Width.Pixels</string>
+						<string>Headings.Show Dividers</string>
+						<string>Navigation.Site Title</string>
+					</array>
+					<key>Kiki</key>
+					<array>
+						<string>Font Family.Merriweather</string>
+						<string>Font Size.Normal</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Banner Overlay.Green overlay</string>
+						<string>Toggle Site Banner.Banner Hidden</string>
+					</array>
+					<key>Lander</key>
+					<array>
+						<string>[+] combo options.Back to Top Button</string>
+						<string>[+] combo options.Navigation: Uppercase</string>
+						<string>[+] combo options.Title and Slogan: Dark Shadow</string>
+						<string>Banner Image - Parallax.Inactive</string>
+						<string>Banner Image - Vertical masking.MaxHeight 400px</string>
+						<string>BreakPoint: Sidebar.Page full width (Hide Sidebar)</string>
+						<string>Google WebFont: Classes + Titles.Raleway</string>
+						<string>Loading page - Effects.Default</string>
+						<string>Max Width.1000 Pixel</string>
+						<string>Navigation Colors.Navigation - Link</string>
+					</array>
+					<key>Offroad</key>
+					<array>
+						<string>Background overlay.10% opacity</string>
+						<string>Background.Use background image</string>
+						<string>Blur background on scroll.Blur</string>
+						<string>Desktop navigation.Main colour</string>
+						<string>Global colours.Main</string>
+						<string>Photo album.Show captions</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site description.Visible</string>
+						<string>Site title.Show site title</string>
+					</array>
+					<key>Voyager</key>
+					<array>
+						<string>Banner Height.440 px</string>
+						<string>Body Text.Open Sans</string>
+						<string>Breadcrumb Trail.Translucent White Presets</string>
+						<string>Content Width.1,170px</string>
+						<string>Headers.Fjalla One</string>
+						<string>Navigation Overlay.Translucent White</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Slogan.Fjalla One</string>
+						<string>Site Title Divider.Light</string>
+						<string>Site Title.Fjalla One</string>
+						<string>Theme Toggles.Show Site Title in Navigation Overlay</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%body_font_size%</key>
+					<string>17</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
