@@ -78,6 +78,62 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltC/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2020-10-04T10:57:40Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
+							<key>files/stacks_page_page0.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								XaiQ82qmAVkv
+								pcfOrCDv4w==
+								</data>
+								<key>Size</key>
+								<integer>5094</integer>
+							</dict>
+							<key>files/stacks_page_page0.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lx6cJd766Wco
+								fqmCV8P9aw==
+								</data>
+								<key>Size</key>
+								<integer>8555</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page0</string>
+						<key>SiteRoot</key>
+						<string>page-kontakt</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
 				</dict>
 			</dict>
 			<key>Files</key>
