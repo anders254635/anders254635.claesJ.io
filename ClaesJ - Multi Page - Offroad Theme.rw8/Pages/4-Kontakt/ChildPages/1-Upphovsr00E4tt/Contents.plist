@@ -32,10 +32,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltD/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-23T15:01:46Z</date>
+						<date>2020-10-04T12:17:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -64,57 +64,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								gj/au0ozTiFv
-								PrgSPT3rbQ==
+								dJKTNMtFJxCI
+								mpbTu0307Q==
 								</data>
 								<key>Size</key>
-								<integer>6348</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page4</string>
-						<key>SiteRoot</key>
-						<string>page-kontakt/page-copyright</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltC/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2020-10-04T10:57:40Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/stacks_page_page4.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								yno/7kr5PdiB
-								GECxuKwOtw==
-								</data>
-								<key>Size</key>
-								<integer>52</integer>
-							</dict>
-							<key>files/stacks_page_page4.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								HxaLSyvI939X
-								ZHhfbpVB3g==
-								</data>
-								<key>Size</key>
-								<integer>6348</integer>
+								<integer>6400</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

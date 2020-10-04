@@ -32,96 +32,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltD/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-23T15:01:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/stacks-image-a9cc132-1200x800.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								0K+Ne5bnn6x6
-								WVAhvuV1aw==
-								</data>
-								<key>Size</key>
-								<integer>157830</integer>
-							</dict>
-							<key>files/stacks-image-a9cc132-1200x800@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								bqZQzYboHLRS
-								wJByszI41g==
-								</data>
-								<key>Size</key>
-								<integer>318164</integer>
-							</dict>
-							<key>files/stacks-image-db02d41-1200x802.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kTyolMr9Kytm
-								d4mWpe59Sw==
-								</data>
-								<key>Size</key>
-								<integer>161715</integer>
-							</dict>
-							<key>files/stacks-image-db02d41-1200x802@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								EbVFAkbgclol
-								bLr1KybpYA==
-								</data>
-								<key>Size</key>
-								<integer>270465</integer>
-							</dict>
-							<key>files/stacks_page_page2.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lrvDFM9yxQLz
-								9dteTzpdMw==
-								</data>
-								<key>Size</key>
-								<integer>1809</integer>
-							</dict>
-							<key>files/stacks_page_page2.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								8Fgkw67TkrNI
-								wAaYO+POjw==
-								</data>
-								<key>Size</key>
-								<integer>8833</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page2</string>
-						<key>SiteRoot</key>
-						<string>page-om</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltC/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2020-10-04T10:57:40Z</date>
+						<date>2020-10-04T12:17:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -166,12 +80,22 @@
 								<key>Size</key>
 								<integer>31656</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
 							<key>files/stacks_page_page2.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								iPyr/u9DgJH0
-								InJRy6wJsA==
+								HRNVcA6vWsF7
+								avxN4nUCdw==
 								</data>
 								<key>Size</key>
 								<integer>2309</integer>
@@ -190,11 +114,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yqZR/VkL3QDr
-								dxSvrh1oLg==
+								NMXncP8WM2nI
+								CTe9F07JHg==
 								</data>
 								<key>Size</key>
-								<integer>9556</integer>
+								<integer>9555</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

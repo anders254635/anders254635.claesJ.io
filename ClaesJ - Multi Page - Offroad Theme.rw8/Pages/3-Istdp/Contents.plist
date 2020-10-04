@@ -32,56 +32,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltB/</key>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltD/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-09-23T15:01:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/stacks_page_page3.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fFDtZTV8r5I4
-								pHX7YuvXQA==
-								</data>
-								<key>Size</key>
-								<integer>1481</integer>
-							</dict>
-							<key>files/stacks_page_page3.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								L1JNb+nmBEtr
-								r9G/IJsuag==
-								</data>
-								<key>Size</key>
-								<integer>6588</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page3</string>
-						<key>SiteRoot</key>
-						<string>page-istdp</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltC/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2020-10-04T10:57:40Z</date>
+						<date>2020-10-04T12:17:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -96,12 +50,22 @@
 								<key>Size</key>
 								<integer>103416</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
 							<key>files/stacks_page_page3.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								fFDtZTV8r5I4
-								pHX7YuvXQA==
+								Tj7cBD0tFG1H
+								A97QQAqkJw==
 								</data>
 								<key>Size</key>
 								<integer>1481</integer>
@@ -120,11 +84,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								nAeCdw0BloFx
-								LKDWLmIj6Q==
+								a+0hBnwCqFCD
+								3FHOYfGbuQ==
 								</data>
 								<key>Size</key>
-								<integer>6474</integer>
+								<integer>6356</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
