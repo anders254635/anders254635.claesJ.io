@@ -35,7 +35,7 @@
 					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltD/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-10-04T12:17:37Z</date>
+						<date>2020-10-04T12:22:54Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -80,16 +80,6 @@
 								<key>Size</key>
 								<integer>31656</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5MsOVT5d8mht
-								rfCNtCfPug==
-								</data>
-								<key>Size</key>
-								<integer>1850</integer>
-							</dict>
 							<key>files/stacks_page_page2.css</key>
 							<dict>
 								<key>Digest</key>
@@ -114,11 +104,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								NMXncP8WM2nI
-								CTe9F07JHg==
+								B6oLE5CdxbDJ
+								Fh0ZIM/stA==
 								</data>
 								<key>Size</key>
-								<integer>9555</integer>
+								<integer>9954</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
