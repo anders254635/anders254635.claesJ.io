@@ -78,6 +78,52 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
+					<key>file:///Users/anders/Documents/Sites/Rapidweaver%208%20/Test/anders254635.claesJ.io/MultiPageOffroadThemeAltE/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2020-10-07T16:41:23Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/stacks_page_page4.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								yno/7kr5PdiB
+								GECxuKwOtw==
+								</data>
+								<key>Size</key>
+								<integer>52</integer>
+							</dict>
+							<key>files/stacks_page_page4.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ZYa0I604OxwK
+								aTgIn0nubw==
+								</data>
+								<key>Size</key>
+								<integer>6547</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page4</string>
+						<key>SiteRoot</key>
+						<string>page-kontakt/page-copyright</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
 				</dict>
 			</dict>
 			<key>Files</key>
